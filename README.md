@@ -6,6 +6,6 @@
 <h1>gracias por visitar mi sitio</h1>
 
 ## Quién soy
-Soy Chaguito
+Soy Chaguito <br>
 iniciandomen en programacion
 
